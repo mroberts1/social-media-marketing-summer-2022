@@ -1,0 +1,242 @@
+---
+title: ''
+author: "Martin Roberts"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_html:
+    css: my_style.css
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+  word_document: null
+subtitle: ''
+runningheader: COMM 7018 Social Media Marketing
+link-citations: yes
+---
+# COMM 8114: SOCIAL MEDIA MARKETING  
+Fitchburg State University  
+Communications Media Department  
+MS in Applied Communication: Social Media Concentration  
+
+Schedule: Monday 11 July - Monday 29 August 2022  
+Instructor: Dr. Martin Roberts  
+Contact: [email](mailto:mrober40@fitchburgstate.edu)  
+
+***  
+
+## OVERVIEW  
+
+This course offers students the opportunity to learn about introductory and advanced applications of social media and marketing, and to allow students the opportunity to produce high quality content for organizations specific to their educational and professional needs. Issues such as search engine optimization, workflow, convergence, production of culture, conscientious posting, and coordination between networked audiences and publics will be addressed. Modern social media are ever-evolving toolsets and distribution platforms, and they are linked by a core set of skills and best practices that extend into marketing for the professional world. This course applies those core skills and practices to user organizations as they relate to business and communicative contexts.
+
+***
+
+## OBJECTIVES  
+By the end of the semester, students should be able to:
+
+- Produce written, video and audio content that will be displayed on social media for businesses and organizations
+- Create and/or modify your social media profiles to reflect best professional and educational practices
+- Propose effective communication practices for local businesses based on theoretical evidence supplied through research
+- Create entry-level and intermediate social media strategies for outreach and content generation
+- Engage in group discussion to break down advanced readings and apply them to practical problems
+- Produce theoretically-based documentation in individual and group-based projects for social media
+- Speculate on the future of social media and applied social media practices using the in-class and extracurricular activities and readings as a platform for further understanding of social media utilities
+
+***  
+
+## COURSE TEXTBOOK
+
+Stephan Dahl, _Social Media Marketing: Theories & Applications_. London: Sage Books, 2021. 
+
+This text is available from the University Bookstore.
+
+***
+
+## COURSE INFORMATION
+
+### Blackboard  
+We will be using the Blackboard Learning Management System (LMS) as the primary platform for the course. Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
+
+### Sources
+PDF documents and the current version of the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-marketing-summer-2022) hosted on GitHub: please bookmark this link. The <pdf> folder on the repo will have copies of any assigned PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
+
+***  
+
+## READING SCHEDULE  
+
+**Week 1** M 07/11  
+
+Dahl, "Consumer Tribes and Communities" (_Social Media Marketing_, chapter 1)
+
+***  
+
+**Week 2** M 07/18  
+
+Dahl, "Brand and Anthropomorphic Marketing" (_Social Media Marketing_, chapter 3)
+
+***  
+
+**Week 3** M 07/25  
+
+Dahl, "Influencer Marketing" (_Social Media Marketing_, chapter 4)
+
+***  
+
+**Week 4** M 08/01  
+
+Dahl, "Engagement," (_Social Media Marketing_, chapter 9)
+
+***  
+
+**Week 5** M 08/08  
+
+Dahl, "Cross-Cultural Aspects and Implications," (_Social Media Marketing_, chapter 12)
+
+***  
+
+**Week 6** M 08/15 
+
+Dahl, "Privacy, Ethical, and Legal Issues," (_Social Media Marketing_, chapter 13)
+
+**Week 7** M 08/22  
+
+Dahl, "Measurement, Metrics, and Analytics," (_Social Media Marketing_, chapter 11)
+
+***
+
+## ASSIGNMENTS & EVALUATION
+
+### Agenda Posts 
+25% – due at the end of the day on Friday on assigned Blackboard message board.
+
+Each week you will present a summary of the reading assignment for that week. The summary and analysis reflects your understanding of the material, as well as leading us into a greater understanding and application of the work for your assigned final project. Each week’s reading summary and analysis will also be book-ended with a discussion of your final project, including the following questions:
+
+What is it? What do you want it to be at the end of the semester?
+
+What questions do you have in getting there, and what do you want the readings to show you as you move forward?
+
+Grading will be based on comprehension of the material, successful and creative application of the work, and the way you show how these readings can be applied to your final project. You will also be writing this on the message boards so other students can see the content and communicate with you. You will find that collaboration and networking with your peers will help ensure your success.
+
+The best goal for this assignment should be to consider how each reading is an integral part of your work, and to pose interesting questions and answers for us to consider. You should be asking me about your ideas and questions about the reading and its application, along with understanding how this content will reflect your understanding of social media marketing and creation.
+
+Note: the best analyses will summarize the readings at the beginning and then answer the questions “What did I learn? How is this going to help me achieve my goals for the semester?” This way you will make sure you are providing a cover of all applicable material for these writers and showing that they are not texts assigned to you for a class, but instead a potential roadmap to your success via a foundational framework of rigorous academics.
+
+### Strategies for Improvement - Content Plan for Marketing 
+20% – Due Week Two
+
+In a 1,000-1,500 word paper (typed, double-spaced, 12-point Times New Roman font, using MLA or APA in-text citations (Note: the word limit does not include your separate bibliography for the paper), explain how you intend to improve your online profile and visibility. Identify the areas where your social media presence is lacking and explain how you plan to address these problems in order to gain more exposure. What specific class readings and lessons will you be applying to this plan to improve your reach? I am looking for an application of class concepts, citation of specific readings, and you should be using as many ideas as possible to apply them.
+
+To get the most from this assignment, you need to prepare how you will examine your profiles and see how they change based on the weeks ahead and how you interact on social media. What strategies are you learning to expand your reach? I want to see some conceptual thought put into here by writing about what class concepts and readings you will use in theory and practice to increase your reach on your platform(s) of choice. This is something you can take to your employer as well when you are illustrating your potential reach as a social marketer.
+
+### Informational Interview
+20% – Due at the end of Week Four.
+
+In 700-1,000 words: interview someone about their employer’s social media marketing policy (or lack thereof). A summary of this interview should be posted on Blackboard by the end of week 4. Your summary should include a list of questions you asked during your interview. Your interviewee’s responses can be summarized in point form notes. You should also have some conceptual link to theories and class concepts you have been studying in class, either in the questions or the summary. Through this, you are seeing how the social marketing practices of an organization are related to theory, and how they reflect the greater application of theory and integrated studies as shown to us.
+
+### Final Project
+25% – Due at the end of Week 7 on Blackboard (see Assignment link on Blackboard for specific date and time).
+
+2,000-3,000 words, excluding references (APA or MLA citation style, in-text and separate reference page). Your goal is to develop a formal idea for integrating social media marketing into your own work, either as an individual or as an employee of an organization. This needs to be an explicit link between theory and practice. What course readings will justify the choices you make? Which theoretical concepts are you bringing into your work as a result of the choices you make, and how will that affect your potential friends, followers, and customers in the digital and real world? How have each of your assignments helped you reach this point where you are ready to create a practical decision or set of decisions? What practical lessons are you using with the text? By explicating how your work reflects your knowledge, you are displaying your portfolio to a potential or actual employer and making a practical link between theory and practice This is the culmination of all your knowledge, so make sure it is truly representative of your final output.
+
+At the end of each week after week 1, please email me an update on the status of your project so we can make sure that you have a marketable, solid final project by the end of the course.
+
+***
+
+## LATE POLICY
+
+Assignments that are late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
+
+***
+
+## MANDATORY REPORTER
+Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are “mandatory reporters,” which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit [http://fitchburgstate.edu/titleix](http://fitchburgstate.edu/titleix) to access information about university support and resources.
+
+***
+
+## HEALTH
+[Health Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
+
+Hours: Monday-Friday 8:30AM-5PM
+Location: Ground Level of Russell Towers (across from the entrance of Holmes Dining Hall) Phone: (978) 665-3643/3894
+
+[Counseling Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fcounseling-services%2F&sa=D&sntz=1&usg=AFQjCNEYiS4EmSvWerpp2bKr5lTpouPuqQ)
+
+The Counseling Services Office offers a range of services including individual, couples and group counseling, crisis intervention, psychoeducational programming, outreach ALTERNATIVE ECOSYSTEMSs, and community referrals. Counseling services are confidential and are offered at no charge to all enrolled students. Staff at Counseling Services are also available for consultation to faculty, staff and students. Counseling Services is located in the Hammond, 3rd Floor, Room 317.
+
+[Fitchburg Anti-Violence Education (FAVE)](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Ffitchburg-anti-violence-education%2F&sa=D&sntz=1&usg=AFQjCNFi5qy-wunMxX-hoWbA9YwT8aa4Ig)
+
+FAVE collaborates with a number of community partners (e.g., YWCA Domestic Violence Services, Pathways for Change) to meet our training needs and to link survivors with community based resources. This site also features [resources](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Ffitchburg-anti-violence-education%2Ffitchburg-anti-violence-education-resources%2F&sa=D&sntz=1&usg=AFQjCNF9KZ2O1AvPMLJTHdNg1DfmYYtgog) for help or information about dating violence, domestic violence, sexual assault and stalking. If you or someone you know is in an abusive relationship or has been a victim of sexual assault, there are many places to go for help. Many can be accessed 24 hours a day, seven days a week, 365 days a year. On campus, free and confidential support is provided at both Counseling Services and Health Services.
+
+_Community Food Pantry_
+Food insecurity is a growing issue and it certainly can affect student learning. The ability to have access to nutritious food is incredibly vital. The Falcon Bazaar, located in Hammond G 15, is stocked with food, basic necessities, and can provide meal swipes to support all Fitchburg State students experiencing food insecurity for a day or a semester.
+
+The university continues to partner with Our Father's House to support student needs and access to food and services. All Fitchburg State University students are welcome at the Our Father’s House Community Food Pantry. This Pantry is located at the Faith Christian Church at 40 Boutelle St., Fitchburg, MA and is open from 5-7pm. Each “household” may shop for nutritious food once per month by presenting a valid FSU ID.
+
+***
+
+## ACADEMIC INTEGRITY
+The University “Academic Integrity” policy can be found online at [http:// www.fitchburgstate.edu/offices-services-directory/office-of-student-conductmediation-education/academic-integrity/.](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
+
+Plagiarism includes, but is not limited to:
+-   Using papers or work from another class.
+-   Using another student's paper or work from any class.
+-   Copying work or a paper from the Internet.
+-   The egregious lack of citing sources or documenting research.
+    
+_If you're not clear on what is or is not plagiarism, ASK. The BEST case scenario if caught is a zero on that assignment, and ignorance of what does or does not count is not an excuse. That being said, I'm a strong supporter of_ _[Fair Use](https://en.wikipedia.org/wiki/Fair_Use) doctrine. Just attribute what you use--and, again, ASK if there's any doubt._
+
+***
+
+## AMERICANS WITH DISABILITIES ACT (ADA)
+If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
+
+***
+
+## TECHNOLOGY
+At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergences. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
+
+-   Plan ahead: A deadline is the last minute to turn in material. You can start—and finish—early, particularly if challenging resources are required, or you know it will be time consuming to finish this project.
+    
+-   Save work early and often: Think how much work you do in 10 minutes. I auto save every 2 minutes.
+    
+-   Make regular backups of files in a different location: Between Box, Google Drive, Dropbox, and iCloud, you have ample places to store and backup your materials. Use them.
+    
+-   Save drafts: When editing, set aside the original and work with a copy.
+    
+-   Practice safe computing: On your personal devices, install and use software to control viruses and malware.
+    
+  ***
+
+## GRADING POLICY
+Grading for the course will follow the FSU grading policy below:
+
+4.0: 95-100
+3.7: 92-94
+3.5: 89-91
+3.3: 86-88
+3.0: 83-85
+2.7: 80-82
+2.5: 77-79
+2.3: 74-76
+2.0: 71-73
+0.0: < 70
+
+***
+
+## ACADEMIC RESOURCES
+
+[Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
+
+[Academic Policies](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)
+
+[Disability Services](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
+
+[Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences](https://www.getrave.com/login/fitchburgstate/)
+
+[University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/careerservices/)
+
+***
+
+
