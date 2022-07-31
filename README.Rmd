@@ -23,7 +23,7 @@ MS in Applied Communication: Social Media Concentration
 
 Schedule: Monday 11 July - Monday 29 August 2022  
 Instructor: Dr. Martin Roberts  
-Contact: [email](mailto:mrober40@fitchburgstate.edu)  
+Contact: [mrober40@fitchburgstate.edu](mrober40@fitchburgstate.edu)  
 
 ***  
 
@@ -99,6 +99,8 @@ Dahl, "Cross-Cultural Aspects and Implications," (_Social Media Marketing_, chap
 **Week 6** M 08/15 
 
 Dahl, "Privacy, Ethical, and Legal Issues," (_Social Media Marketing_, chapter 13)
+
+***
 
 **Week 7** M 08/22  
 
