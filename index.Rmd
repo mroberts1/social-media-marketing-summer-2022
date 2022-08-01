@@ -17,9 +17,9 @@ runningheader: COMM 7018 Social Media Marketing
 link-citations: yes
 ---
 # COMM 8114: SOCIAL MEDIA MARKETING  
-Fitchburg State University  
-Communications Media Department  
-MS in Applied Communication: Social Media Concentration  
+[Fitchburg State University](https://fitchburgstate.edu)  
+[Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)    
+[MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)    
 
 Schedule: Monday 11 July - Monday 29 August 2022  
 Instructor: Dr. Martin Roberts  
