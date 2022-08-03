@@ -1,0 +1,56 @@
+---
+title: ''
+author: "Martin Roberts"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_html:
+    css: my_style.css
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+  word_document: null
+subtitle: ''
+runningheader: COMM 7018 Social Media Marketing
+link-citations: yes
+---
+# COMM 8114: SOCIAL MEDIA MARKETING  
+
+## TikTok
+Bhandari, A., and S. Bimo (2020) "[TikTok and the Algorithmized Self: A New Model of Online Interaction](https://journals.uic.edu/ojs/index.php/spir/article/view/11172),". _AoIR Selected Papers of Internet Research_ (October). https://doi.org/10.5210/spir.v2020i0.11172.
+
+Jia, L., & Liang, F. (2021). "[The globalization of TikTok: Strategies, governance and geopolitics](https://www.ingentaconnect.com/content/intellect/jdmp/2021/00000012/00000002/art00005;jsessionid=6g73hjqmtin9m.x-ic-live-01)." _Journal of Digital Media & Policy_, _12_(2), 273–292. [https://doi.org/10.1386/jdmp_00062_1](https://doi.org/10.1386/jdmp_00062_1)   
+
+Ruehlicke, A. (2020). "[All the Content, Just For You: TikTok and Personalization](https://www.flowjournal.org/2020/10/content-just-for-you/)," _FlowTV_, 1 October .
+
+Ting, D. (2020) "['Every kid wants to be an influencer': Why TikTok is taking off with Gen Z](https://digiday.com/%20marketing/every-kid-wants-influencer-tiktok-taking-off-gen-z/)," _Digiday_, 7 February.
+
+Starkey, P. (2022). “['TikTok Made Me Try It': Social Media’s New Role in Marketing Strategies and Its Effect on Consumer Behavior](https://scholarworks.uark.edu/mgmtuht/18)."" Management Undergraduate Honors Thesis.
+
+***
+
+## \#ThatGirl
+Arshad, S. (2021). "[What Does “That Girl” Mean On TikTok? The Viral Trend, Explained](https://www.bustle.com/life/what-does-that-girl-mean-tiktok-viral-trend)," _Bustle_, 12 August.
+
+Cortés, M.S. (2021). "[Who Is "That Girl" On TikTok?](https://www.refinery29.com/en-us/2021/07/10563596/that-girl-tiktok-gen-z-trend)," _Refinery29_, 29 July.
+
+Gillman, E. (2021). "[What you need to know about the That Girl Tiktok trend.](https://www.mamamia.com.au/that-girl-tiktok-trend/)," _MamaMia_, 7 October.
+
+Joshi, S. (2021). "[I Tried To Be TikTok’s ‘That Girl’ for a Week](https://www.vice.com/en/article/5db8ek/tiktok-youtube-viral-trend-that-girl-internet-genz-challenge)," _Vice_, 9 September.
+
+Sharma, R. (2021). "[Who Is 'That Girl' And Why Is TikTok Obsessed With Her?](https://www.refinery29.com/en-gb/2021/07/10551994/tiktok-obsession-with-that-girl)," _Refinery29_, 10 July.
+
+Wake, H. (2021). "[Romanticizing? Or false advertising? What's really behind TikTok's 'that girl' trend. - Upworthy](https://www.upworthy.com/tiktok--that-girl-trends)," _Upworthy_ 5 October.
+
+Yasharoff, H. (2012). "[What TikTok's viral 'That Girl' trend isn't showing you – and why that matters](https://news.yahoo.com/tiktoks-viral-girl-trend-isnt-120042853.html)," _USA Today_, 1 October.
+
+***
+
+## BeReal
+Clark, K. (2022). "[Chipotle Gets Candid With The Anti-filter Social Media App BeReal | The Drum](https://www.thedrum.com/news/2022/04/29/chipotle-gets-candid-with-the-anti-filter-social-media-app-bereal)," _The Drum,_ 29 April.
+
+DeYoung, A. (2022). "[The Ultimate Guide To BeReal - The Latest Social Network](https://www.netinfluencer.com/bereal/)," _Net Influencer,_ 25 July.
+
+Sharp, S.R. (2022). "[BeReal App Gets Real Roasted With Memes](https://hyperallergic.com/751444/bereal-app-gets-real-roasted-with-memes/?utm_source=pocket_mylist),"  _Net Influencer,_ 1 August.
