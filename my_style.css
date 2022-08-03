@@ -4,6 +4,8 @@
 
 @charset "UTF-8";
 
+html { font-size: 14px; }
+
 h1,h2,h3 {
   font-style: normal;
   font-weight: 600;
@@ -11,7 +13,7 @@ h1,h2,h3 {
 
 body {
   font-family: Raleway, sans-serif;
-  font-size: 12pt;
+  font-size: 0.8em;
   
 }
 h1 {
@@ -20,11 +22,11 @@ h1 {
 }
 
 h2 {
-  font-size: 1.4em;
+  font-size: 1.8em;
   font-family: "Sanchez", sans-serif;
 }
 
 h3 {
-  font-size: 1.2em;
+  font-size: 1.6em;
   font-family: "Sanchez", sans-serif;
 }
